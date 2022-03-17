@@ -2,7 +2,7 @@
 
 This project have as main objective understand how mean temperature per year is different in different places of earth. 
 
--I made an heat map to undertand how the temperature is distribute around the world.
+-I made a heat map to undertand how the temperature is distribute around the world.
 
 -I calculated the variation of temperature during the year in the main cities around th globe
 
